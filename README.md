@@ -1,2 +1,2 @@
-# Fastapi-pydanticAI-agent
-Build a Full-Stack Agentic AI App with FastAPI &amp; Pydantic AI, NextJS! 
+python run.py
+http://127.0.0.1:8000/docs

@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Chat Scroll */
+.chat-container {
+  max-height: 400px;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+/* Stylish Button */
+.btn-modern {
+  transition: all 0.3s ease-in-out;
+}
+.btn-modern:hover {
+  transform: scale(1.05);
+  filter: brightness(110%);
+}
